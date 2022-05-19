@@ -26,7 +26,7 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
           
   <img aling="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="right" alt="pirata-pic" height="150" width="100" style="border-radius:50px;" src="https://pixabay.com/get/g433946bc79e83ebb47a97598e247ced14841fd77af894bc95f99c678f3043f0b475c5067718402ccd80044aa2577e073870ecc04d8de5733760803a5f44e3c5e_1920.jpg">
+  <img align="right" alt="pirata-pic" height="150" width="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/89480113?v=4" >
 </div>
   
   ##
