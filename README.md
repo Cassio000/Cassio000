@@ -2,8 +2,15 @@
 ## Oii👋 Eu sou **Cassio Carvalho**  ✨ _Desenvolvedor Fron-end 💻_ ✨  Seja bem-vindo!
 
 
-- 🔭 Dev Front-end;
-- 🌱 Learning Back-end;
+Meu maior foco é o front-end, e o que o HTML, CSS e JavaScript podem nos proporcionar.
+Estou sempre buscando melhores práticas e também aprender/experimentar coisas novas.
+
+
+- 🔭 **Dev Front-end**
+  - Tenho experiencia em HTML/CSS, JavaScript, Bootstrap e Angular.
+  - Conhecimentos básicos em: React, React Native, Node.js e Android Studio.
+- 🌱 **Learning Back-end**
+  - Estudando: Java, SpringBoot, eclipse 
 - 🤔 Disponivel para novos desafios.
 
 
