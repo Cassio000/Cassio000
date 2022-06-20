@@ -2,7 +2,7 @@
 ## Oii👋 Eu sou **Cassio Carvalho**  ✨ _Desenvolvedor Fron-end 💻_ ✨  Seja bem-vindo!
 
 
-Meu maior foco é o front-end, e o que o HTML, CSS e JavaScript podem nos proporcionar.
+Meu foco é o front-end, e o que o HTML, CSS e JavaScript podem nos proporcionar.
 Estou sempre buscando melhores práticas e também aprender/experimentar coisas novas.
 
 
